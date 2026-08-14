@@ -1,0 +1,11 @@
+# Place these files here:
+#   adb.exe           (from Android Platform Tools)
+#   AdbWinApi.dll     (from Android Platform Tools)
+#   AdbWinUsbApi.dll  (from Android Platform Tools)
+#   ffmpeg.exe        (from ffmpeg builds)
+#   scrcpy-server     (from scrcpy releases)
+#
+# Download links:
+#   Platform Tools: https://dl.google.com/android/repository/platform-tools-latest-windows.zip
+#   FFmpeg: https://www.gyan.dev/ffmpeg/builds/
+#   scrcpy: https://github.com/Genymobile/scrcpy/releases

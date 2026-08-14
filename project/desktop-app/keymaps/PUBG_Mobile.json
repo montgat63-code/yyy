@@ -1,0 +1,25 @@
+{
+  "name": "PUBG Mobile",
+  "sensitivity": 8,
+  "aimSensitivity": 6,
+  "keys": [
+    {"id": "steer_1", "type": "steer", "key": "WASD", "label": "Move", "x": 22, "y": 78, "size": 80},
+    {"id": "aim_1", "type": "aim", "key": "RMB", "label": "Aim Look", "x": 50, "y": 50, "size": 70},
+    {"id": "fire_1", "type": "fire", "key": "LMB", "label": "Fire", "x": 78, "y": 82, "size": 55},
+    {"id": "tap_jump", "type": "tap", "key": "Space", "label": "Jump", "x": 82, "y": 65, "size": 48},
+    {"id": "tap_crouch", "type": "tap", "key": "C", "label": "Crouch", "x": 15, "y": 55, "size": 44},
+    {"id": "tap_prone", "type": "tap", "key": "Z", "label": "Prone", "x": 15, "y": 40, "size": 44},
+    {"id": "tap_reload", "type": "tap", "key": "R", "label": "Reload", "x": 73, "y": 72, "size": 44},
+    {"id": "tap_interact", "type": "tap", "key": "F", "label": "Interact", "x": 60, "y": 80, "size": 44},
+    {"id": "tap_lean_l", "type": "tap", "key": "Q", "label": "Lean Left", "x": 38, "y": 45, "size": 40},
+    {"id": "tap_lean_r", "type": "tap", "key": "E", "label": "Lean Right", "x": 62, "y": 45, "size": 40},
+    {"id": "tap_sprint", "type": "tap", "key": "Shift", "label": "Sprint", "x": 35, "y": 72, "size": 44},
+    {"id": "tap_w1", "type": "tap", "key": "1", "label": "Weapon 1", "x": 88, "y": 35, "size": 40},
+    {"id": "tap_w2", "type": "tap", "key": "2", "label": "Weapon 2", "x": 93, "y": 50, "size": 40},
+    {"id": "tap_w3", "type": "tap", "key": "3", "label": "Weapon 3", "x": 88, "y": 65, "size": 40},
+    {"id": "tap_grenade", "type": "tap", "key": "4", "label": "Grenade", "x": 45, "y": 20, "size": 38},
+    {"id": "tap_smoke", "type": "tap", "key": "5", "label": "Smoke", "x": 52, "y": 20, "size": 38},
+    {"id": "tap_map", "type": "tap", "key": "M", "label": "Map", "x": 95, "y": 12, "size": 40},
+    {"id": "swipe_scope", "type": "swipe", "key": "V", "label": "Scope", "x": 70, "y": 30, "size": 50, "swipeDistance": 120, "swipeAngle": 0}
+  ]
+}
